@@ -1,40 +1,64 @@
-Privacy Policy 
-EffectiveDate: 02-06-2025
+Privacy Policy
 
-Evolve & Educate (EvoEd) ("we," "our," "us") respects your privacy and is committed to protecting it through this Privacy Policy. This document describes how we collect, use, disclose, and safeguard your information when you use our mobile application ("App") and services ("Services").
+Effective Date: 02-06-2025
+
+Evolve & Educate (EvoEd) ("we," "our," "us") respects your privacy and is committed to protecting it through this Privacy Policy. This document describes how we collect, use, disclose, and safeguard your information when you use our mobile application ("App") and related services ("Services").
 
 Information We Collect
+
 a) Information You Provide
-Account Information includes your name, email address, profile photo, and other registration details. Content Data consists of information related to your generated courses, quizzes, flashcards, and user progress.
+- Account Information: Includes your name, email address, profile photo, and registration details.
+- Content Data: Includes details related to generated courses, quizzes, flashcards, and progress tracking.
 
 b) Information Collected Automatically
-Usage Data includes app usage, course completion, quiz performance, and time spent. Device Information covers IP address, device type, operating system, and browser type. Cookies and Tracking Technologies are used to support authentication, functionality, and analytics.
+- Usage Data: Includes course completion, quiz performance, and time spent on the app.
+- Device Information: Includes your IP address, device type, operating system, and browser type.
+- Cookies & Tracking Technologies: Used for authentication, analytics, and improving functionality.
 
 How We Use Your Information
-We use your information to provide, maintain, and improve our App and Services. We personalize learning recommendations and content, send important notifications, updates, and communications, and protect against unauthorized access to ensure app security.
+
+We use your data to:
+- Operate and improve the App and Services
+- Personalize learning experiences
+- Communicate important updates
+- Protect against misuse or unauthorized access
+- Comply with legal obligations
 
 Sharing of Information
-We do not sell, rent, or trade your personal information. However, we may share your information with service providers who are trusted vendors helping us operate and maintain our App. We may also disclose information if required by law, regulation, legal process, or governmental request. Additionally, information may be shared in connection with any merger, sale, or asset transfer.
+
+We do not sell or rent your personal data. We may share information with:
+- Trusted third-party vendors for hosting and maintenance
+- Authorities when required by law or regulation
+- Parties involved in a merger, acquisition, or sale of assets
 
 Data Security
-We implement commercially reasonable security measures to safeguard your information. However, no method of transmission over the internet or method of storage is completely secure.
+
+We implement industry-standard security measures to protect your data. However, no method of transmission over the Internet or storage is 100% secure.
 
 Data Retention
-We retain personal information as long as needed to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required by law.
+
+Your data is retained only as long as necessary for the purposes outlined in this policy or as required by applicable law.
 
 Your Rights
-Depending on your location, you may have rights under applicable privacy laws to access, update, or delete your personal information, object to our use of your data, and receive a copy of your information. You can exercise these rights by contacting us at [your email address].
 
-Children's Privacy
-Our Services are not intended for children under the age of 13. We do not knowingly collect personal information from children.
+Depending on your jurisdiction, you may have rights to:
+- Access, correct, or delete your personal data
+- Object to processing or request data portability
+To exercise these rights, contact us at nawabmohammad83@gmail.com.
+
+Children’s Privacy
+
+Our Services are not intended for users under the age of 13. We do not knowingly collect personal data from children.
+
+Export Compliance
+
+Our app complies with U.S. export laws, including those regulating software that uses encryption. The app is not intended for use in embargoed countries or by restricted parties.
 
 Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any material changes via the App or by email.
+
+We may update this Privacy Policy. Material changes will be notified through the App or via email.
 
 Contact Us
-If you have questions or concerns about this Privacy Policy, please contact us at:
-Email: nawabmohammad83@gmai.com
 
-Notes:
-Replace 02-06-2025 with the date you plan to publish the app or policy.
-Replace nawabmohammad83@gmai.com with your official contact email .
+If you have any questions or concerns, contact us at:
+Email: nawabmohammad83@gmail.com
